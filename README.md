@@ -1,16 +1,17 @@
 ### Hi there 👋
+I'm Sémiat OLAITAN, student in software engineering and I am interested in data analysis, databases, security.
 
-<!--
-**lamiye19/lamiye19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🥰 My Favorite Languages
 
-Here are some ideas to get you started:
+![python](/images/python.jpeg)
+![php](/images/php.jpeg)
+![js](/images/js.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👁️ What's going on
+
+>- 🔭 I’m currently working on [glsiA-3](https://github.com/lamiye19/glsiA-3)
+>- 🌱 I’m currently learning Spring Boot
+>- 👯 I’m looking to collaborate on [dematology project](https://github.com/lamiye19/python-health-project-GLSIA/tree/dermatologie)
+
+[![linkedIn](/images/linkedin.png)](https://www.linkedin.com/in/s%C3%A9miat-oy%C3%A9nik%C3%A8-ola%C3%AFtan-741717196/)
+[![Twitter](/images/twitter.png)](https://www.twitter.com/Lamiye19_Dev/)
