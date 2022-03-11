@@ -3,9 +3,9 @@ I'm Sémiat OLAITAN, student in software engineering and I am interested in data
 
 #### 🥰 My Favorite Languages
 
-![python](/images/python.jpeg)
-![php](/images/php.jpeg)
-![js](/images/js.png)
+[![python](/images/python.jpeg)](#) 
+[![php](/images/php.jpeg)](#) 
+[![js](/images/js.png)](#)
 
 #### 👁️ What's going on
 
